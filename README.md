@@ -11,7 +11,7 @@ core.py-> contains core logic
 utils.py-> contains validation
 tests->  unit test cases
 setup.py -> configuration details 
-# execute using this command - python setup.py install 
+Execute using this command - python setup.py install 
 it creates files foo_parameterization.egg-info , build, lib folders are for understanding package structure 
 
 **open folder in visual studio and install necessary plugin extensions**This package provides the complex (yet entirely fictitious) Foo et al. parameterization for calculating the volume of a sphere given its radius.
